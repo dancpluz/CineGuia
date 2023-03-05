@@ -7,7 +7,7 @@
   <img src="https://user-images.githubusercontent.com/64702639/222941850-0a6d835e-2f58-43ad-a7a5-805e9e808399.png" width="300"/>
 </picture>
 
-## About
+## 📚 About
 
 <picture>
   <img src="https://user-images.githubusercontent.com/64702639/222943510-7cd8b57f-fd53-488f-aefb-142fe7d243a8.gif" align="right" width="55%"/>
@@ -15,7 +15,7 @@
 
 Simple and fun React website to train the framework. Made really simple branding and styling, name was made by the junction of the words "Cinema" and "Guia", wich translates to cinema and guide.
 
-## Features
+## 📌 Features
 
 - Fetches movie data from OMDB API to showcase poster, title, type and year
 - Search by title function
@@ -23,11 +23,11 @@ Simple and fun React website to train the framework. Made really simple branding
 - Shows 10 movies from search
 - Change language from english to portuguese
 
-## Built With
+## 🛠 Built With
 
 <picture>![React]</picture><picture>![Javascript]</picture><picture>![HTML]</picture><picture>![CSS]</picture>
 
-## Available Scripts
+## 👨‍💻 Available Scripts
 
 ### `npm start`
 
