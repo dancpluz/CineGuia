@@ -3,10 +3,18 @@
 [CSS]: https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
 [Javascript]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
-<img src="https://user-images.githubusercontent.com/64702639/222941850-0a6d835e-2f58-43ad-a7a5-805e9e808399.png" width="300"/>
+
+<a href="#"><img src="https://user-images.githubusercontent.com/64702639/222941850-0a6d835e-2f58-43ad-a7a5-805e9e808399.png" width="300"/></a>
+
 
 ## About
+
+<a href="#"><img src="https://user-images.githubusercontent.com/64702639/222943510-7cd8b57f-fd53-488f-aefb-142fe7d243a8.gif" align="right" width="700"/></a>
+
+
 Simple and fun React website to train the framework. Made really simple branding and styling, name was made by the junction of the words "Cinema" and "Guia", wich translates to cinema and guide.
+
+
 
 ## Features
 
@@ -19,7 +27,7 @@ Simple and fun React website to train the framework. Made really simple branding
 
 ## Built With
 
-![React] ![Javascript] ![HTML] ![CSS] 
+<a href="#">![React] ![Javascript] ![HTML] ![CSS]</a>
 
 ## Available Scripts
 
