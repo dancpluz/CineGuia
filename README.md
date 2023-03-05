@@ -9,7 +9,7 @@
 
 ## About
 
-<a href="#"><img src="https://user-images.githubusercontent.com/64702639/222943510-7cd8b57f-fd53-488f-aefb-142fe7d243a8.gif" align="right" width="700"/></a>
+<a href="#"><img src="https://user-images.githubusercontent.com/64702639/222943510-7cd8b57f-fd53-488f-aefb-142fe7d243a8.gif" align="right" width="50%"/></a>
 
 
 Simple and fun React website to train the framework. Made really simple branding and styling, name was made by the junction of the words "Cinema" and "Guia", wich translates to cinema and guide.
