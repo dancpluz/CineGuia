@@ -27,7 +27,7 @@ Simple and fun React website to train the framework. Made really simple branding
 
 ## Built With
 
-<a href="#">![React] ![Javascript] ![HTML] ![CSS]</a>
+<a href="#">![React]![Javascript]![HTML]![CSS]</a>
 
 ## Available Scripts
 
