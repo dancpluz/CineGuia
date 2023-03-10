@@ -27,6 +27,8 @@ Simple and fun React website to train the framework. Made really simple branding
 
 <picture>![React]</picture><picture>![Javascript]</picture><picture>![HTML]</picture><picture>![CSS]</picture>
 
+This project would not be possible without Javascript Mastery.
+
 ## 👨‍💻 Available Scripts
 
 ### `npm start`
